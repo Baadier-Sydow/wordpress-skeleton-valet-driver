@@ -6,7 +6,7 @@ This requires both [WordPress Skeleton] and [Laravel Valet] to work.
 
 # Installation Instructions
 ```
-Copy WordPressSkeletonValetDriver.php into ~/.valet/Drivers.
+Copy WordPressSkeletonValetDriver.php into ~/.valet/Drivers
 ```
 >
 >Laravel Valet is currently Mac only.
